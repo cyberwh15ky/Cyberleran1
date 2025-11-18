@@ -1,0 +1,6 @@
+my-site/
+├── Dockerfile
+├── start.sh
+├── app.py 或 index.js
+├── requirements.txt 或 package.json
+└── README.md
